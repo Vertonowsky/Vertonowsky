@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm currently developing an online courses web application, written in **Java**, using **Spring framework**. 
+Let me introduce you to the already working version at: [http://146.59.16.44:8080/](http://146.59.16.44:8080/). If you notice any errors or if you have any ideas how can i make this app even better - please let me know!
+
+After visiting this address, you should see something like this ;)
+
+![preview](https://user-images.githubusercontent.com/27568559/228959160-8c2a515f-5735-4edf-a833-7ff814eb0b07.png)
+
+
 <!--
 **Vertonowsky/Vertonowsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
