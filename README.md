@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently developing an online courses web application, written in **Java**, using **Spring framework**. 
+I'm an IT Student who is currently developing an online courses web application using **Java** and **Spring framework**. 
 Let me introduce you to the already working version at: [http://146.59.16.44:8080/](http://146.59.16.44:8080/). If you notice any errors or if you have any ideas how can i make this app even better - please let me know!
 
 After visiting this address, you should see something like this ;)
