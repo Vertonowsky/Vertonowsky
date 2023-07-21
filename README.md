@@ -1,7 +1,7 @@
 ## Hi there, I'm Bartek! <img src="https://c.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" width="25px" height="25px" />
 
 I am a **Computer Science** student as well as professional **Java Backend Developer** developing modern Java applications using **JavaEE** and **Spring** frameworks.
-Also I love challenges, especially with designing responsive applications using HTML and CSS.
+I also enjoy designing responsive applications using HTML, CSS and JavaScript.
 
 
 ## About Me
